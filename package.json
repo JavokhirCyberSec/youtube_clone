@@ -2,7 +2,7 @@
   "name": "youtube_clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://javokhircybersec.github.io/youtube_clone/",
+  "homepage": "https://JavokhirCyberSec.github.io/youtube_clone",
   "dependencies": {
     "@emotion/react": "11.11.3",
     "@emotion/styled": "11.11.0",
